@@ -6,6 +6,8 @@ Compilation instructions:
     executable files.
 
 NOTE:
+*(N stands for no win)*
+
 I've added functionality to check if the server has won
 after it does its move. The control flow that was given
 in the assignment specifications didn't ask for this,
