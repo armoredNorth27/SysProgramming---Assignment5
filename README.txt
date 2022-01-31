@@ -1,17 +1,3 @@
-Name: Alex Nedev
-
-Student Number: 101195595
-
-Contents of .tar file:
-    makefile
-    client.c
-    client.h
-    server.c 
-    server.h
-    tic-tac-toe.c
-    tic-tac-toe.h
-    Readme.txt
-
 Compilation instructions:
     There isn't anything complicated for compiling
     the code. Run 'make main' in order to compile
