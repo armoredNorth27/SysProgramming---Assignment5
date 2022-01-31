@@ -25,6 +25,5 @@ error when I run the server more than once. I think this
 is because the socket is in a TIME_WAIT state but I'm not
 100% sure if this is the case. Seeing as I'm closing the
 sockets the same way that we've been doing with some of the
-other material in the course I've decided to leave it as is
-and I'm hoping that this won't impact your marking too much. 
+other material in the course I've decided to leave it as is.
 After waiting for a few minutes I could then run the server again.
